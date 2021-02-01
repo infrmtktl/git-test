@@ -1,0 +1,1 @@
+document.write('Nowy tekst z js')
